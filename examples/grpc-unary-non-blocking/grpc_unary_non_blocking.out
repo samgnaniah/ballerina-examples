@@ -1,3 +1,4 @@
-# To run the service, put the code in  `grpc_unary_non-blocking.bal`
-# and use "ballerina run" command.
+# Create a Ballerina project and a package inside it. 
+# Add the following files inside the package directory and 
+# build the project.
 $ ballerina run grpc_unary_non_blocking.bal
